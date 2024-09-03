@@ -1,0 +1,14 @@
+D:\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\Desktop\Pedidos\ManejoPedidos\obj\Debug\net8.0\ManejoPedidos.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\Desktop\Pedidos\ManejoPedidos\obj\Debug\net8.0\ManejoPedidos.AssemblyInfoInputs.cache
+D:\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\Desktop\Pedidos\ManejoPedidos\obj\Debug\net8.0\ManejoPedidos.AssemblyInfo.cs
+D:\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\Desktop\Pedidos\ManejoPedidos\obj\Debug\net8.0\ManejoPedidos.csproj.CoreCompileInputs.cache
+D:\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\Desktop\Pedidos\ManejoPedidos\bin\Debug\net8.0\ManejoPedidos.exe
+D:\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\Desktop\Pedidos\ManejoPedidos\bin\Debug\net8.0\ManejoPedidos.deps.json
+D:\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\Desktop\Pedidos\ManejoPedidos\bin\Debug\net8.0\ManejoPedidos.runtimeconfig.json
+D:\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\Desktop\Pedidos\ManejoPedidos\bin\Debug\net8.0\ManejoPedidos.dll
+D:\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\Desktop\Pedidos\ManejoPedidos\bin\Debug\net8.0\ManejoPedidos.pdb
+D:\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\Desktop\Pedidos\ManejoPedidos\obj\Debug\net8.0\ManejoPedidos.dll
+D:\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\Desktop\Pedidos\ManejoPedidos\obj\Debug\net8.0\refint\ManejoPedidos.dll
+D:\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\Desktop\Pedidos\ManejoPedidos\obj\Debug\net8.0\ManejoPedidos.pdb
+D:\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\Desktop\Pedidos\ManejoPedidos\obj\Debug\net8.0\ManejoPedidos.genruntimeconfig.cache
+D:\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\Desktop\Pedidos\ManejoPedidos\obj\Debug\net8.0\ref\ManejoPedidos.dll
